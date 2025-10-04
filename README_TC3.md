@@ -17,7 +17,7 @@ O projeto inclui: análise rápida dos dados, baseline, **treinamento**, **avali
  [ https://colab.research.google.com/drive/18PrMk-EvAcHeBcyITCqTqf195nZlfwda](https://colab.research.google.com/drive/16U41PAgNw-PDb_X-0PrypXwzdFJmxjZH)
 - 💻 **Repositório GitHub**:  
   https://github.com/LuisFelipelf1/tech-challenge-fase3
-- 🎥 **Vídeo (YouTube)**: _adicionar após upload_
+- 🎥 **Vídeo (YouTube)**: https://www.youtube.com/watch?v=PuN-b7v78V0
 
 ---
 

@@ -140,7 +140,7 @@ print("FINETUNED:", responder(t))
 ## 📝 Notas
 - Pipeline não usa `bitsandbytes/triton`, evitando conflitos de CUDA.
 - Checkpoints treinados foram armazenados no Google Drive (fora do repo).
-- Trabalho **individual**. Última atualização: 2025-10-02
+- Trabalho **individual**. 
 
 ---
 
